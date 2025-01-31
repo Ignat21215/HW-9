@@ -1,0 +1,26 @@
+span {
+    text-decoration:line-through
+}
+.text {
+    text-indent:100px;
+    line-height: 1.7
+}
+.link {
+    text-shadow: 2px 2px 4px red
+}
+.post-title {
+    text-align: center ;
+}
+.post-text:first-of-type {
+    text-align: right;
+    white-space: pre;
+}
+.post-text:last-of-type {
+    text-align: justify;
+    word-break: keep-all;
+}
+.post-text {
+    font-family: "Lobster", serif;
+    font-size: 22px;
+    color: rgb(0, 88, 129);
+}
